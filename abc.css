@@ -1,0 +1,213 @@
+body {
+    margin: 0;
+    font-family: "Ubuntu", sans-serif;
+  }
+  .barwrap{
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+.navigation-bar{
+  position: absolute;
+width: 1552px;;
+height: 91px;
+left: 0px;
+top: 0px;
+
+background: #000000;
+}
+.movieshub{
+  position: absolute;
+width: 249px;
+height: 49px;
+left: 595px;
+top: 20px;
+align-items: center;
+
+}
+.topmovies {
+    
+   position: absolute;
+width: 139px;
+height: 28px;
+left: 200px;
+top: 174px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+
+color: #000000;}
+.rect{
+  flex-wrap: wrap;
+  flex-direction: column;
+}
+  
+    
+.rect1 {
+  position: absolute;
+width: 1159px;
+height: 120px;
+left: 197px;
+top: 282px;
+
+border: 2px solid #000000;
+box-sizing: border-box;
+border-radius: 15px;
+}
+.rect2{
+  position: absolute;
+width: 100px;
+height: 80px;
+left:20px;
+top: 20px;
+}
+.moviename{
+  position: absolute;
+  width: 182px;
+  height: 33px;
+  left: 140px;
+  top: 20px;
+  
+  font-family: Latinka-SemiBold;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 33px;
+  /* identical to box height */
+  
+  
+
+}
+.marvel{
+  position: absolute;
+width: 67px;
+height: 33px;
+left: 140px;
+top: 44px;
+
+font-family: Latinka-Regular;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 33px;
+
+color: #000000;
+}
+.actionbox{
+  position: absolute;
+width: 100px;
+height: 28px;
+left: 140px;
+top: 76px;
+
+background: #51D4F0;
+border-radius: 15px;
+}
+.action{
+  position: absolute;
+width: 69px;
+height: 28px;
+left: 15px;
+top: 0px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 28px;
+}
+.thrillerbox{
+  position: absolute;
+width: 100px;
+height: 28px;
+left: 250px;
+top: 76px;
+background: #F051A7;
+border-radius: 15px;
+
+}
+.thriller{
+  position: absolute;
+width: 69px;
+height: 28px;
+left: 15px;
+top: 0px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 28px;
+
+color: #000000;
+
+}
+.thumbicon{
+  position: absolute;
+width: 30px;
+height: 30px;
+left: 1032px;
+top: 36px;
+}
+.percentage{
+  position: absolute;
+width: 47px;
+height: 33px;
+left: 1084px;
+top: 36px;
+
+font-family: Latinka-Bold;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 33px;
+color: #F7971E
+
+}
+.rect1-1{
+  position: absolute;
+width: 1159px;
+height: 120px;
+left: 196px;
+top: 434px;
+
+border: 2px solid #000000;
+box-sizing: border-box;
+border-radius: 15px;
+}
+.rect1-2{
+  position: absolute;
+width: 1159px;
+height: 120px;
+left: 196px;
+top: 586px;
+
+border: 2px solid #000000;
+box-sizing: border-box;
+border-radius: 15px;
+}
+.rect1-3{
+  position: absolute;
+width: 1159px;
+height: 120px;
+left: 196px;
+top: 738px;
+
+border: 2px solid #000000;
+box-sizing: border-box;
+border-radius: 15px;
+}
+.rect1-4{
+  position: absolute;
+width: 1159px;
+height: 120px;
+left: 196px;
+top: 890px;
+
+border: 2px solid #000000;
+box-sizing: border-box;
+border-radius: 15px;
+}
